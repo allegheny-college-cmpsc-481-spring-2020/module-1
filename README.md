@@ -19,6 +19,14 @@ For your group to learn how to choose and contribute to an open source project u
 * [MunGell's "Awesome for Beginners" Repository](https://github.com/MunGell/awesome-for-beginners)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [GitHub Help Wanted](http://github-help-wanted.com/)
+* [First Timers Only](https://www.firsttimersonly.com/)
+
+## Before contributing
+
+The following sources provide good guides to getting situated in an open source project for the first time:
+
+* [Getting Involved with Open Source Projects](https://blog.teamtreehouse.com/getting-involved-open-source-projects)
+* [How to Contribute to Open Source Projects](https://opensource.guide/how-to-contribute/)
 
 ## Assignment activity and required deliverables
 
