@@ -14,6 +14,12 @@ For your group to learn how to choose and contribute to an open source project u
 * To develop high-quality software in response to a community need
 * To practice various skills which may or may not be directly code development
 
+## Good sources for finding projects
+
+* [https://github.com/MunGell/awesome-for-beginners](MunGell's "Awesome for Beginners" Repository)
+* [https://up-for-grabs.net/](Up for Grabs)
+* [http://github-help-wanted.com/](GitHub Help Wanted)
+
 ## Assignment activity and required deliverables
 
 Unless otherwise noted, all deliverables are due by the end of class time (2:30 P.M.).
@@ -64,7 +70,7 @@ The points you earn for each module come from a combination of:
 
 ### Writing
 
-All reports should be turned in using Markdown files extant in the `writing` directory of this repository. As stipulated in the [role definition document], the writer should spearhead the effort. However, this does not mean that they alone should complete it. These reports require input and contribution from the entire group.
+All reports should be turned in using Markdown files extant in the `writing` directory of this repository. As stipulated in the Syllabus [in the course-materials repository](https://github.com/allegheny-college-cmpsc-481/course-materials), the writer should spearhead the effort. However, this does not mean that they alone should complete it. These reports require input and contribution from the entire group.
 
 ### Surveys
 
