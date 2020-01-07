@@ -16,9 +16,9 @@ For your group to learn how to choose and contribute to an open source project u
 
 ## Good sources for finding projects
 
-* [https://github.com/MunGell/awesome-for-beginners](MunGell's "Awesome for Beginners" Repository)
-* [https://up-for-grabs.net/](Up for Grabs)
-* [http://github-help-wanted.com/](GitHub Help Wanted)
+* [MunGell's "Awesome for Beginners" Repository](https://github.com/MunGell/awesome-for-beginners)
+* [Up For Grabs](https://up-for-grabs.net/)
+* [GitHub Help Wanted](http://github-help-wanted.com/)
 
 ## Assignment activity and required deliverables
 
