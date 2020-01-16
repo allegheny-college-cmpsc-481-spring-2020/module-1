@@ -78,7 +78,7 @@ The points you earn for each module come from a combination of:
 
 ### Writing
 
-All reports should be turned in using Markdown files extant in the `writing` directory of this repository. As stipulated in the Syllabus [in the course-materials repository](https://github.com/allegheny-college-cmpsc-481/course-materials), the writer should spearhead the effort. However, this does not mean that they alone should complete it. These reports require input and contribution from the entire group.
+All reports should be turned in using Markdown files extant in the `writing` directory of this repository. As stipulated in the Syllabus [in the course-materials repository](https://github.com/allegheny-college-cmpsc-481-spring-2020/course-materials), the writer should spearhead the effort. However, this does not mean that they alone should complete it. These reports require input and contribution from the entire group.
 
 ### Surveys
 
